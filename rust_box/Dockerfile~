@@ -1,5 +1,0 @@
-FROM ubuntu
-MAINTAINER Low Kian Seong
-
-RUN apt-get update
-RUN curl -s https://static.rust-lang.org/rustup.sh | sh
