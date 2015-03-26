@@ -18,7 +18,7 @@
 #
 # Thanks to @hqmq_ for the heads up
 FROM phusion/baseimage:0.9.13
-MAINTAINER Nizar Venturini @trenpixster
+MAINTAINER Low Kian Seong @lowks
 
 # Important!  Update this no-op ENV variable when this Dockerfile
 # is updated with the current date. It will force refresh of all
